@@ -2,6 +2,7 @@
 	"name": "@ctx-core/dist",
 	"version": "2.0.14",
 	"description": "ctx-core dist",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"scripts": {
