@@ -2,24 +2,24 @@
 	"name": "@ctx-core/dist",
 	"version": "2.0.21",
 	"description": "ctx-core dist",
-	"scripts": {
-		"clear-dist": "./bin/clear-dist.sh",
-		"exec": "$@"
+	"keywords": [
+		"ctx-core",
+		"dist"
+	],
+	"homepage": "https://github.com/ctx-core/dist#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/dist/issues"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ctx-core/dist/issues"
 	},
-	"keywords": [
-		"ctx-core",
-		"dist"
-	],
-	"author": "Brian Takita",
 	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/dist/issues"
+	"author": "Brian Takita",
+	"scripts": {
+		"clear-dist": "./bin/clear-dist.sh",
+		"exec": "$@"
 	},
-	"homepage": "https://github.com/ctx-core/dist#readme",
 	"publishConfig": {
 		"access": "public"
 	},
