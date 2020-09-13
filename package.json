@@ -4,7 +4,7 @@
 	"description": "ctx-core dist",
 	"scripts": {
 		"clear-dist": "./bin/clear-dist.sh",
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"exec": "$@"
 	},
 	"repository": {
 		"type": "git",
