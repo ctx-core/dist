@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/dist",
-	"version": "2.0.20",
+	"version": "2.0.21",
 	"description": "ctx-core dist",
 	"scripts": {
 		"clear-dist": "./bin/clear-dist.sh",
