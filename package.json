@@ -17,9 +17,9 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"scripts": {
+		"build": "npm run compile",
 		"clear-dist": "./bin/clear-dist.sh",
-		"exec": "$@",
-		"build": "npm run compile"
+		"exec": "$@"
 	},
 	"publishConfig": {
 		"access": "public"
