@@ -18,10 +18,10 @@
 	"author": "Brian Takita",
 	"scripts": {
 		"clear-dist": "./bin/clear-dist.sh",
-		"exec": "$@"
+		"exec": "$@",
+		"build": "npm run compile"
 	},
 	"publishConfig": {
 		"access": "public"
-	},
-	"gitHead": "0fa6aca40cfafcf379e1df6412032787aa9a8b7d"
+	}
 }
