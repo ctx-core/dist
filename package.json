@@ -21,6 +21,9 @@
 		"clear-dist": "./bin/clear-dist.sh",
 		"exec": "$@"
 	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
 	"publishConfig": {
 		"access": "public"
 	}
