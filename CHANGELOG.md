@@ -1,5 +1,11 @@
 # @ctx-core/dist
 
+## 2.0.26
+
+### Patch Changes
+
+- - .rush
+
 ## 2.0.25
 
 ### Patch Changes
