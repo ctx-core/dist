@@ -1,5 +1,11 @@
 # @ctx-core/dist
 
+## 2.0.29
+
+### Patch Changes
+
+- typescript: ^4.1.5 -> ^4.2.2
+
 ## 2.0.28
 
 ### Patch Changes
