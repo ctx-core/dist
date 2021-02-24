@@ -1,5 +1,11 @@
 # @ctx-core/dist
 
+## 2.0.30
+
+### Patch Changes
+
+- version bump
+
 ## 2.0.29
 
 ### Patch Changes
