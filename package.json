@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/dist",
-	"version": "2.1.9",
+	"version": "2.1.10",
 	"description": "ctx-core dist",
 	"keywords": [
 		"ctx-core",
@@ -16,7 +16,6 @@
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
-	"type": "module",
 	"scripts": {
 		"build": ":",
 		"clear-dist": "./bin/clear-dist.sh",

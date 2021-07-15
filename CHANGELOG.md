@@ -1,5 +1,11 @@
 # @ctx-core/dist
 
+## 2.1.10
+
+### Patch Changes
+
+- 2a6971f80: fix: "type": "module"
+
 ## 2.1.9
 
 ### Patch Changes
