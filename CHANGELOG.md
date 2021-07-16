@@ -1,5 +1,23 @@
 # @ctx-core/dist
 
+## 2.1.13
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+
+## 2.1.12
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+
+## 2.1.11
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+
 ## 2.1.10
 
 ### Patch Changes

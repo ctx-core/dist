@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/dist",
-	"version": "2.1.10",
+	"version": "2.1.13",
 	"description": "ctx-core dist",
 	"keywords": [
 		"ctx-core",
@@ -28,5 +28,8 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"esm": "^3.2.25"
+	}
 }
