@@ -19,7 +19,8 @@
 	"scripts": {
 		"build": ":",
 		"clear-dist": "./bin/clear-dist.sh",
-		"exec": "$@"
+		"exec": "$@",
+		"test": ":"
 	},
 	"devDependencies": {
 		"typescript": "^4.4.4"
